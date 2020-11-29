@@ -34,14 +34,14 @@ Let's assume you have available a large cooler for your turkey and its brine and
 ### My solution 💡
 #### Input
 <img
-  src="/photos/input.png"
+  src="photos/input.png"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 #### Output
 <img
-  src="/photos/output.png"
+  src="photos/output.png"
   alt="Azure Function Output"
   style="float: left; margin-right: 90px;"
 />
