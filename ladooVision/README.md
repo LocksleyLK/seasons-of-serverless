@@ -19,42 +19,42 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
 
 ### Input - Ladoo Photo #1
 <img
-  src="photos/input.png"
+  src="photos/ladoo1.png"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 ### Input - Ladoo Photo #2
 <img
-  src="photos/input.png"
+  src="photos/ladoo2.png"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 ### Input - Ladoo Photo #3
 <img
-  src="photos/input.png"
+  src="photos/ladoo3.jpg"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 ### Input - Other Photo #1
 <img
-  src="photos/input.png"
+  src="photos/donut.jpg"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 ### Input - Other Photo #2
 <img
-  src="photos/input.png"
+  src="photos/donut2.png"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
 
 ### Input - Other Photo #3
 <img
-  src="photos/input.png"
+  src="photos/oranges.png"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
