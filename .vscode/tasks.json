@@ -6,27 +6,18 @@
 			"command": "host start",
 			"problemMatcher": "$func-node-watch",
 			"isBackground": true,
-			"dependsOn": "npm install",
-			"options": {
-				"cwd": "${workspaceFolder}/challenge-1"
-			}
+			"dependsOn": "npm install"
 		},
 		{
 			"type": "shell",
 			"label": "npm install",
-			"command": "npm install",
-			"options": {
-				"cwd": "${workspaceFolder}/challenge-1"
-			}
+			"command": "npm install"
 		},
 		{
 			"type": "shell",
 			"label": "npm prune",
 			"command": "npm prune --production",
-			"problemMatcher": [],
-			"options": {
-				"cwd": "${workspaceFolder}/challenge-1"
-			}
+			"problemMatcher": []
 		}
 	]
 }
