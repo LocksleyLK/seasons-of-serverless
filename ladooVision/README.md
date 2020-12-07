@@ -38,6 +38,13 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
   style="float: left; margin-right: 90px;"
 />
 
+### Output of ladoo photos
+<img
+  src="photos/output4.PNG"
+  alt="Azure Function Input"
+  style="float: left; margin-right: 90px;"
+/>
+
 ### Input - Other Photo #1
 <img
   src="photos/donut.jpg"
@@ -55,6 +62,13 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
 ### Input - Other Photo #3
 <img
   src="photos/oranges.png"
+  alt="Azure Function Input"
+  style="float: left; margin-right: 90px;"
+/>
+
+### Output of other photos
+<img
+  src="photos/output6.PNG"
   alt="Azure Function Input"
   style="float: left; margin-right: 90px;"
 />
