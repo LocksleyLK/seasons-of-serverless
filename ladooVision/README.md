@@ -16,6 +16,7 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
 - Azure Functions Extension
 
 ## My solution 💡
+In custom vision, I created two categories: **ladoo** and **other**. The other category contains images of glazed donut-holes, cinnamon sugar donut-holes, cream puffs, and some mandarin oranges.
 
 ### Input - Ladoo Photo #1
 <img
@@ -72,6 +73,3 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
   alt="Azure Function Input"
   style="float: left; width: 50%; margin-right: 90px;"
 />
-
-
-
