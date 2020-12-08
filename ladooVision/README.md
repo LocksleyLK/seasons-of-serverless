@@ -16,6 +16,7 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
 - Azure Functions Extension
 
 ## My solution 💡
+In custom vision, I created two categories: **ladoo** and **other**. The other category contains images of glazed donut-holes, cinnamon sugar donut-holes, cream puffs, and some mandarin oranges.
 
 ### Input - Ladoo Photo #1
 <img
@@ -28,36 +29,47 @@ Create a machine learning model that can analyze images of ladoos made for Diwal
 <img
   src="photos/ladoo2.png"
   alt="Azure Function Input"
-  style="float: left; margin-right: 90px;"
+  style="float: left; width: 50%; margin-right: 90px;"
 />
 
 ### Input - Ladoo Photo #3
 <img
   src="photos/ladoo3.jpg"
   alt="Azure Function Input"
-  style="float: left; margin-right: 90px;"
+  style="float: left; width: 50%; margin-right: 90px;"
+/>
+
+### Output of ladoo photos
+<img
+  src="photos/output4.PNG"
+  alt="Azure Function Input"
+  style="float: left; width: 50%; margin-right: 90px;"
 />
 
 ### Input - Other Photo #1
 <img
   src="photos/donut.jpg"
   alt="Azure Function Input"
-  style="float: left; margin-right: 90px;"
+  style="float: left; width: 50%; margin-right: 90px;"
 />
 
 ### Input - Other Photo #2
 <img
   src="photos/donut2.png"
   alt="Azure Function Input"
-  style="float: left; margin-right: 90px;"
+  style="float: left; width: 50%; margin-right: 90px;"
 />
 
 ### Input - Other Photo #3
 <img
   src="photos/oranges.png"
   alt="Azure Function Input"
-  style="float: left; margin-right: 90px;"
+  style="float: left; width: 50%; margin-right: 90px;"
 />
 
-
-
+### Output of other photos
+<img
+  src="photos/output6.PNG"
+  alt="Azure Function Input"
+  style="float: left; width: 50%; margin-right: 90px;"
+/>
