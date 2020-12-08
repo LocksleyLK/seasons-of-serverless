@@ -2,3 +2,4 @@
 
 ## [Challenge 1](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/challenge-1)
 ## [Challenge 2](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/ladooVision)
+## [Challenge 3](https://github.com/LocksleyLK/seasons-of-serverless/tree/master/longestKebab)
