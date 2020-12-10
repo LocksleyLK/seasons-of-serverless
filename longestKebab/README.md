@@ -28,3 +28,17 @@ With your fast calculator, you might be able to win the prize for the longest ke
 - Azure Functions Extension
 
 ## My solution 💡
+
+### Input
+<img
+  src="photos/input.png"
+  alt="Azure Function Input"
+  style="float: left; margin-right: 90px;"
+/>
+
+### Output
+<img
+  src="photos/input.png"
+  alt="Azure Function Input"
+  style="float: left; margin-right: 90px;"
+/>
