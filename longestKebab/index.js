@@ -2,6 +2,9 @@
 // of 6 inches. Two kilograms of lamb equates to 4.4 pounds which could create a 105 
 // inch kebab.
 
+// My solution also assumes 1 kebab is equal to serving 1 person. So a pound of ground
+// lamb could serve four people. (And two kilograms of lamb would make 17.6 servings).
+
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
@@ -22,7 +25,14 @@ Red pepper flakes: ${((kilos * .25) / 2).toFixed(2)} teaspoons
 With this recipe, you could create a kebab that is:
 ${((kilos * 105) / 2).toFixed(2)} inches
 or
-${(((kilos * 105) / 2) / 12 ).toFixed(2)} feet`
+${(((kilos * 105) / 2) / 12 ).toFixed(2)} feet
+
+You could serve:
+${(kilos * 8.8).toFixed()} people
+`
+
+// I'm rounding people to a whole number because you can't serve a fraction
+// of a person.
 
         :
         "Please input your amount of ground lamb in kilograms!";
