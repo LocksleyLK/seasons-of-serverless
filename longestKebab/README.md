@@ -38,7 +38,7 @@ With your fast calculator, you might be able to win the prize for the longest ke
 
 ### Output
 <img
-  src="photos/input.png"
-  alt="Azure Function Input"
+  src="photos/output.png"
+  alt="Azure Function Output"
   style="float: left; margin-right: 90px;"
 />
