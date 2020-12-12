@@ -27,16 +27,16 @@ module.exports = async function (context, req) {
         .then(result => {
             let message = "";
             if (result.predictions[0].tagName === "anna") {
-                message = "🌼 This is an anna's hummingbird :).";
+                message = "🌼 This is an Anna's Hummingbird.";
             }
             else if (result.predictions[0].tagName === "black-chinned") {
-                message = "💐 This is a black-chinned's hummingbird :).";
+                message = "💐 This is a Black-chinned Hummingbird.";
             }
             else if (result.predictions[0].tagName === "calliope") {
-                message = "🌻 This is a calliope hummingbird :).";
+                message = "🌻 This is a Calliope Hummingbird.";
             }
             else if (result.predictions[0].tagName === "rufous") {
-                message = "🌺 This is a rufous hummingbird :).";
+                message = "🌺 This is a Rufous Hummingbird.";
             }   
             else {
                 message = "🐦 This is not a hummingbird :(";
