@@ -42,3 +42,6 @@ With your fast calculator, you might be able to win the prize for the longest ke
   alt="Azure Function Output"
   style="float: left; margin-right: 90px;"
 />
+
+## Try it out yourself:
+Copy and paste this link into your web browser: https://longestkebab-locksleylk.azurewebsites.net/api/longestKebab?kilos=20
