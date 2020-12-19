@@ -34,4 +34,4 @@ Using the spreadsheet as inspiration, create a serverless method of determining 
 />
 
 ## Try it out yourself:
-Copy and paste this link into your web browser: https://longestkebab-locksleylk.azurewebsites.net/api/longestKebab?kilos=20
+Copy and paste this link into your web browser: https://bestbbq.azurewebsites.net/api/bestBBQ?budget=200&beefKilos=3&filletKilos=2&sausagesKilos=3&grilledCheesePieces=3&garlicBreadPieces=4&chickenKilos=3&beefPrice=30&filletPrice=36&sausagesPrice=18&grilledCheesePrice=24&garlicBreadPrice=12&chickenPrice=12
