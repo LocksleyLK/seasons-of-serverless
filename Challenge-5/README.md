@@ -49,7 +49,7 @@ To begin, I created the following Flow in Power Automate. I'll walk through the 
 <img
   src="photos/trigger.png"
   alt="Microsoft Flow Trigger"
-  style="float: left; margin-right: 90px;"
+  style="float: left; margin-right: 90px; width: 50%; height: 50%"
 />
 
 #### Step 2: First notificiation is sent
