@@ -20,8 +20,8 @@ As garae-tteok has a long and cylindrical shape, people wish to live long, by ea
 
 ### Recipe
 1. Slice garae-ttok into small pieces – no thicker than 5 mm.
- - You can buy sliced garae-tteok.
- - But in this case, put the sliced garae-tteok into a bowl of water for about 30 mins.
+   - You can buy sliced garae-tteok.
+   - But in this case, put the sliced garae-tteok into a bowl of water for about 30 mins.
 2. Slice spring onion.
 3. At high heat, stir-fry the diced beef with sesame oil and olive oil until the beef surface goes brown.
 4. Put the water into the wok and boil for about 30 mins with medium heat.
