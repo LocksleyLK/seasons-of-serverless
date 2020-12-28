@@ -49,7 +49,7 @@ To begin, I created the following Flow in Power Automate. I'll walk through the 
 <img
   src="photos/trigger.png"
   alt="Microsoft Flow Trigger"
-  style="float: left; margin-right: 90px;"
+  style="float: left; margin-right: 90px; width: 50%; height: 50%"
 />
 
 #### Step 2: First notificiation is sent
@@ -90,7 +90,19 @@ To begin, I created the following Flow in Power Automate. I'll walk through the 
 ### Output
 After clicking **Run** in Power Automate and inputting our trigger, there are two distinct outputs. The first output is in Power Automate's web interface and notifies us whether our flow ran successfully. I can tell from my interface that all of my instances have run successfully.
 
+<img
+  src="photos/runs.png"
+  alt="Microsoft Flow Runs Dashboard"
+  style="float: left; margin-right: 90px;"
+/>
+
 The second, and perhaps more important, output can be seen after downloading the Microsoft Flow app. After running the solution in Power Automate, I would recieve Push Notifications of my phone for when to complete certain tasks. I can tell by the timestamps that the push notifications are running correctly.
+
+<img
+  src="photos/output.gif"
+  alt="Push notifications on mobile phone"
+  style="float: left; margin-right: 90px;"
+/>
 
 ## Try it out yourself
 If you're interesting in trying it out yourself, send me your email and I can share the solution in Power Automate.
