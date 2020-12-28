@@ -46,16 +46,46 @@ I used Power Automate for my solution. A cool thing about Power Automate is it i
 To begin, I created the following Flow in Power Automate. I'll walk through the solution step by step:
 
 #### Step 1: Manually trigger flow by typing "Begin soup"
+<img
+  src="photos/trigger.png"
+  alt="Microsoft Flow Trigger"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 2: First notificiation is sent
+<img
+  src="photos/notification1.png"
+  alt="Microsoft Flow first notification"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 3: First 30 minute delay
+<img
+  src="photos/delay1.png"
+  alt="Microsoft Flow first delay"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 4: After 30 minutes, four more notifications are sent
+<img
+  src="photos/notification2.png"
+  alt="Microsoft Flow second notifications"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 5: Second 30 minute delay
+<img
+  src="photos/delay2.png"
+  alt="Microsoft Flow second delay"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 6: After 30 minutes, the final three notifications are sent
+<img
+  src="photos/notification3.png"
+  alt="Microsoft Flow third notifications"
+  style="float: left; margin-right: 90px;"
+/>
 
 ### Output
 
