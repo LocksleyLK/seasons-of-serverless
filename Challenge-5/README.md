@@ -46,18 +46,55 @@ I used Power Automate for my solution. A cool thing about Power Automate is it i
 To begin, I created the following Flow in Power Automate. I'll walk through the solution step by step:
 
 #### Step 1: Manually trigger flow by typing "Begin soup"
+<img
+  src="photos/trigger.png"
+  alt="Microsoft Flow Trigger"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 2: First notificiation is sent
+<img
+  src="photos/notification1.png"
+  alt="Microsoft Flow first notification"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 3: First 30 minute delay
+<img
+  src="photos/delay1.png"
+  alt="Microsoft Flow first delay"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 4: After 30 minutes, four more notifications are sent
+<img
+  src="photos/notification2.png"
+  alt="Microsoft Flow second notifications"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 5: Second 30 minute delay
+<img
+  src="photos/delay2.png"
+  alt="Microsoft Flow second delay"
+  style="float: left; margin-right: 90px;"
+/>
 
 #### Step 6: After 30 minutes, the final three notifications are sent
+<img
+  src="photos/notification3.png"
+  alt="Microsoft Flow third notifications"
+  style="float: left; margin-right: 90px;"
+/>
 
 ### Output
+After clicking **Run** in Power Automate and inputting our trigger, there are two distinct outputs. The first output is in Power Automate's web interface and notifies us whether our flow ran successfully. I can tell from my interface that all of my instances have run successfully.
+
+The second, and perhaps more important, output can be seen after downloading the Microsoft Flow app. After running the solution in Power Automate, I would recieve Push Notifications of my phone for when to complete certain tasks. I can tell by the timestamps that the push notifications are running correctly.
+
+## Try it out yourself
+If you're interesting in trying it out yourself, send me your email and I can share the solution in Power Automate.
+
 
 
 
