@@ -23,6 +23,7 @@ module.exports = async function (context, req) {
             status: 400,
             body: "Parameter budget is required."
         };
+        
 
         return;
     }
