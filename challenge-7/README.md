@@ -40,8 +40,8 @@ I used JavaScript, Azure Functions, and Twilio for my solution. When a user inpu
 
 ## Try it out yourself
 
-Unfortunately, this solution would be very challenging to try it out yourself. Typically, you could follow the link below with your inputted phone number and recieve a SMS response of the jollof recipe:
+Unfortunately, this solution would be very challenging to try it out yourself. Typically, you could follow the link below with your inputted phone number and recieve a SMS response of the jollof recipe but this will produce an error message:
 
 https://recipeconnector.azurewebsites.net/api/recipeConnector?phoneNumber=+1425XXXXXXX&recipeName=jollof.
 
-This is because I used the trial of Twilio.
+This is because I used the free trial of Twilio.
